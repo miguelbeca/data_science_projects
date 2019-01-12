@@ -38,7 +38,7 @@ Query:
 
 SELECT `Facilities`.`name`
 FROM `Facilities`
-WHERE `Facilities`.`membercost`=0
+WHERE `Facilities`.`membercost` > 0
 
 
 /* Q2: How many facilities do not charge a fee to members? */
