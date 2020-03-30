@@ -31,8 +31,8 @@ One other cause of concern when analysing healthcare charges data is also the po
 fraud. Unfortunately, fraud with Medicare and other government programs in not uncommon,
 and making this sort of analysis can be relevant to help spot anomalies and unusual situations
 in the data. Just as an example, one of the largest Medicare fraud cases in the United States is
-now in its initial court proceedings8, involving a total of around $1 billion dollars, while recently,
-Walgreens settled a fraud case in the amount of $296 million dollars9
+now in its initial court proceedings, involving a total of around $1 billion dollars, while recently,
+Walgreens settled a fraud case in the amount of $296 million dollars.
 
 Lastly, this dataset provided many avenues of exploration and, for future work, it would be
 interesting to analyse average charges based on the qualifications of the providers in order to
