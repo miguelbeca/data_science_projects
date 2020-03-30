@@ -12,6 +12,10 @@ Does the price trend in particular time intervals, such as particular hours, day
 
 Does the price exhibit any particular patterns repeatedly?
 
-For this analysis, I used different machine learning algorithms and also Deep Learning tecniques.
+For this analysis, I used different machine learning algorithms, such as Logistic Regression, Random Forest Classifier and Gradient Boost Classifier algorithms. 
 
-The results obtained by the various algorithms cannot be implemented in real-life, as they did not provide any real predictive accuracy. However, in terms of future work with this particular dataset, my research work will continue in terms of combining other data sources, as well as, combining price-prediction models in order to help determine future returns.
+In addition to the above, I also developed a model using LSTM Neural Networks in Keras, in order to compare it against traditional ML models. 
+
+The results obtained by the various algorithms cannot be implemented in real-life, as they did not provide any real predictive accuracy (only slightly above 50% for all of the models). 
+
+However, in terms of future work with this particular dataset, my research work will continue in terms of combining other data sources, as well as, combining price-prediction models in order to help determine future returns.
