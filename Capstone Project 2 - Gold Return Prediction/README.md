@@ -7,8 +7,10 @@ All the required datasets are in the 'data' folder.
 Project Summary and Conclusions:
 
 The main objectives of this project were to analyze, visualize and model Gold return data and try to answer some of the following questions:
-  Does the price trend in particular time intervals, such as particular hours, days or months?
-  Does the price exhibit any particular patterns repeatedly?
+
+Does the price trend in particular time intervals, such as particular hours, days or months?
+
+Does the price exhibit any particular patterns repeatedly?
 
 For this analysis, I used different machine learning algorithms and also Deep Learning tecniques.
 
