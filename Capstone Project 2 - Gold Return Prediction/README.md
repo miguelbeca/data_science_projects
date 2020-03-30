@@ -3,3 +3,13 @@ This project focused on the prediction of gold daily returns using collected his
 The files are numbered according to the section in which the relevant output appears in the report, with the exception of the Machine Learning section which has files numbered 5a through 8c, and Neural Networks, which appears in Section 7 of the report.
 
 All the required datasets are in the 'data' folder.
+
+Project Summary and Conclusions:
+
+The main objectives of this project were to analyze, visualize and model Gold return data and try to answer some of the following questions:
+  Does the price trend in particular time intervals, such as particular hours, days or months?
+  Does the price exhibit any particular patterns repeatedly?
+
+For this analysis, I used different machine learning algorithms and also Deep Learning tecniques.
+
+The results obtained by the various algorithms cannot be implemented in real-life, as they did not provide any real predictive accuracy. However, in terms of future work with this particular dataset, my research work will continue in terms of combining other data sources, as well as, combining price-prediction models in order to help determine future returns.
